@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "A very simple HTTP function, which you invoke from standard HTTP requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@alessiasacchi",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^2.0.0"
+  }
+}
